@@ -14,4 +14,4 @@ when they return to the application.
 * NODE
 
 ## Contribution
-Made by Brian Hernandez
+Made by Brian Hernandez.
